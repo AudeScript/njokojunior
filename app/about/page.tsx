@@ -10,7 +10,7 @@ export default function About() {
 
       <main className="flex-1">
         {/* Hero Section */}
-        <section className="bg-muted py-20 md:py-32">
+        <section className="bg-sky py-20 md:py-32">
           <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
             <h1 className="text-5xl md:text-6xl font-serif font-bold text-balance">
               About njokojunior
@@ -55,7 +55,7 @@ export default function About() {
         </section>
 
         {/* Values Section */}
-        <section className="bg-muted py-20 md:py-32">
+        <section className="bg-sky py-20 md:py-32">
           <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
             <h2 className="text-3xl md:text-4xl font-serif font-bold text-center mb-12">
               Core Values

@@ -29,7 +29,7 @@ export default function Services() {
         "Performance Optimization",
         "SEO Integration",
       ],
-      image: "/hero.png",
+      image: "/tequilaHero.png",
     },
     {
       title: "Online Training",
@@ -52,7 +52,7 @@ export default function Services() {
 
       <main className="flex-1">
         {/* Hero Section */}
-        <section className="bg-muted py-20 md:py-32">
+        <section className="bg-beach py-20 md:py-32">
           <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
             <h1 className="text-5xl md:text-6xl font-serif font-bold text-balance">
               Our Services
@@ -114,7 +114,7 @@ export default function Services() {
                     width={200}
                     alt={service.title}
                     src={service.image}
-                    className="w-full h-80 object-cover"
+                    className="w-full h-80 object-cover object-top"
                   />
                 </div>
               </div>

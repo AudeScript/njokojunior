@@ -249,6 +249,40 @@ h3 {
   animation: glow 2s ease-in-out infinite;
 }
 
+.bg-sea {
+  background-image: url("/sky.avif");
+  background-size: cover;
+  /* object-fit: cover; */
+  background-position: top;
+}
+
+.bg-sky {
+  background-image: url("/skycloud.webp");
+  background-size: cover;
+  /* object-fit: cover; */
+  background-position: center;
+}
+
+.bg-ocean-1 {
+  background-image: url("/ocean-1.avif");
+  background-size: cover;
+  /* object-fit: cover; */
+  background-position: top;
+}
+
+.bg-ocean {
+  background-image: url("/ocean.avif");
+  background-size: cover;
+  /* object-fit: cover; */
+  background-position: top;
+}
+.bg-beach {
+  background-image: url("/beach.avif");
+  background-size: cover;
+  /* object-fit: cover; */
+  background-position: center;
+}
+
 .gradient-shift {
   background-size: 200% 200%;
   animation: gradientShift 6s ease infinite;
