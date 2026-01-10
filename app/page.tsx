@@ -132,7 +132,7 @@ export default function Home() {
       </section>
       <Testimonials />
       {/* CTA Section */}
-      <div className="h-screen/2 bg-ocean-1 flex flex-col">
+      <div className="h-screen/2 bg-sea  flex flex-col">
         <section className="py-20 md:py-32 max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
           <div className="gradient-primary text-white rounded-lg p-12 md:p-16 text-center space-y-6 hover:shadow-lg hover:shadow-primary/30 transition-all duration-300 animate-slide-up">
             <h2 className="text-3xl md:text-4xl font-serif font-bold">

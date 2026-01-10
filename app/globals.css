@@ -253,7 +253,7 @@ h3 {
   background-image: url("/sky.avif");
   background-size: cover;
   /* object-fit: cover; */
-  background-position: top;
+  background-position: center;
 }
 
 .bg-sky {
